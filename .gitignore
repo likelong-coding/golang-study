@@ -3,8 +3,6 @@
 *.a
 *.so
 
-.idea
-
 # Folders containing binaries, archives or compiled code
 bin/
 release/
